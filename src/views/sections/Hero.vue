@@ -33,7 +33,7 @@
             class="d-flex flex-wrap"
           >
             <base-btn>
-              Discover More
+              Discover Morer
             </base-btn>
 
             <span class="font-weight-bold ml-6 mr-4 my-4">or</span>
